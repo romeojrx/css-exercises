@@ -2,8 +2,6 @@
 div {
     background-color: red;
     font-size: 32px;
-}
-
-div{
     color: white;
+    text-align: center;
 }
